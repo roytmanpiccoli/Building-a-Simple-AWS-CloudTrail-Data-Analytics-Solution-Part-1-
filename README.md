@@ -1,9 +1,3 @@
-[version_1.0]
-
-©2021 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
-
-Errors or corrections? Contact us at https://support.aws.amazon.com/#/contacts/aws-training.
-
 Building a Simple AWS CloudTrail Data Analytics Solution
 Before starting
 The next video demonstrates the steps that are listed here, This document includes the step-by-step instructions that Raf completes on the Part 1 of the demo you are about to watch. You can use this document as a reference guide, or follow up in your own AWS account, which might incur some costs and is not mandatory for completing the course.
